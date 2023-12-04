@@ -1,0 +1,116 @@
+[
+    {
+      "id": 1,
+      "name": "Niat Sholat Subuh",
+      "arabic": "أُصَلِّى فَرْضَ الصُّبْح رَكَعتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لله تَعَالَى",
+      "latin": "Ushalli fardlash shub-hi rak'ataini mustaqbilal qiblati adaa-an lillahi ta'aala"
+    },
+    {
+      "id": 2,
+      "name": "Niat Sholat Dhuhur",
+      "arabic": "اُصَلِّيْ فَرْضَ الظُّهْرِ أَرْبَعَ رَكَعاَتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لله تَعَالَى",
+      "latin": "Ushalli fardhash dhuhri arba'a rak'aatain mustaqbilal qiblati adaa-an lillahi ta'aala"
+    },
+    {
+      "id": 3,
+      "name": "Niat Sholat Ashar",
+      "arabic": "أُصَلِّى فَرْضَ العَصْرِأَرْبَعَ رَكَعاَتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لله تَعَالَى",
+      "latin": "Ushalli fardlal 'ashri arba'a raka'aatain mustaqbilal qiblati adaa-an lillahi ta'aala"
+    },
+    {
+      "id": 4,
+      "name": "Niat Sholat Maghrib",
+      "arabic": "أُصَلِّى فَرْضَ المَغْرِبِ ثَلاَثَ رَكَعاَتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لله تَعَالَ",
+      "latin": "Ushalli fardlal maghribi tsalaatsa raka'aatain mustaqbilal qiblati adaa-an lillaahi ta'aala"
+    },
+    {
+      "id": 5,
+      "name": "Niat Sholat Isya'",
+      "arabic": "أُصَلِّى فَرْضَ العِشَاء ِأَرْبَعَ رَكَعاَتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لله تَعَالَى",
+      "latin": "Ushalli fardlal 'isyaa-i arba'a raka'aatain mustaqbilal qiblati adaa-an lillahi ta'aala"
+    },
+    {
+      "id": 6,
+      "name": "Takbiraul Ikhram",
+      "arabic": "اللهُ أكْبَرُ",
+      "latin": "Allahu Akbar"
+    },
+    {
+      "id": 7,
+      "name": "Bacaan Iftitah",
+      "arabic": "اَللهُ اَكْبَرُ كَبِيْرًا وَالْحَمْدُ لِلّهِ كَثِيْرًا وَسُبْحَانَ اللهِ بُكْرَةً وَاَصِيْلًا. اِنِّى وَجَّهْتُ وَجْهِيَ لِلَّذِيْ فَطَرَالسَّمَاوَاتِوَالْاَرْضَ حَنِيْفًا مُسْلِمًا وَمَا اَنَا مِنَ الْمُشْرِكِيْنَ. اِنَّ صَلَاتِيْ وَنُسُكِيْ وَمَحْيَايَ وَمَمَاتِيْ لِلّهِ رَبِّ الْعَا لَمِيْنَ. لاَشَرِيْكَ لَهُ وَبِذَلِكَ اُمِرْتُ وَاَنَا مِنَ الْمُسْلِمِيْنَ",
+      "latin": "Allahu akbar kabiiraa wal hamdu lillahi katsiiraa washub-haanallahi bukratan wa ashiilaa. Inni wajjahtu wajhiya lilladzii fatharassa maawaati wal ardla haniifan musliman wamaa anaa minal musyrikiina. Inna shalaatii wanusukii wamahyaaya wama maati lillahi rabbil aalamiina. Laasyriika lahu wabidzaalika umirtu wa anaa minal muslimin."
+    },
+    {
+      "id": 8,
+      "name": "Bacaan Surat Al-Fatihah",
+      "arabic": "بِسْمِ اللّهِ الرَّحْمَنِ الرَّحِيْمِ . الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ . الرَّحْمَٰنِ الرَّحِيم . مَالِكِ يَوْمِ الدِّينِ . إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ . اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ . صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "latin": "Bismillahirrahmaanirrahiim. Alhamdu lillahi rabbil 'aalamiin. Arrahmaanirrahiim. Maaliki yaumiddiin. Iyyaaka na'budu waiyyaaka nasta'iin. Ihdinash shirraathal musthaqiim. Shiraathal ladziina an'amta 'alaihim. Ghairil maghduubi 'alaihim waladl-dlaalliin."
+    },
+    {
+      "id": 9,
+      "name": "Bacaan Surath Pendek",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ ,قُلْ يَا أَيُّهَا الْكَافِرُونَ, لَا أَعْبُدُ مَا تَعْبُدُونَ, وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ, وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ, وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ, لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+      "latin": "Qul ya ayyuhal kafirun La a'budu ma ta'budun Wa la antum 'abiduna ma a'budu Wa la ana 'abidun ma 'abadtum Wa la antum 'abiduna ma a'budu Lakum dinukum waliyadin"
+    },
+    {
+      "id": 10,
+      "name": "Bacaan Ruku'",
+      "arabic": "سُبْحَانَ رَبِّىَ الْعَظِيمِ وَبِحَمْدِهِ",
+      "latin": "Subhaana rabbiyal 'adzhiimi wabihamdihi (3 kali)"
+    },
+    {
+      "id": 11,
+      "name": "Bacaan I'tidal",
+      "arabic": "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ",
+      "latin": "Sami'allaahu liman hamidah"
+    },
+    {
+      "id": 12,
+      "name": "Bacaan Sujud",
+      "arabic": "سُبْحَانَ رَبِّىَ الْأَعْلَى وَبِحَمْدِهِ",
+      "latin": "Subhaana rabbiyal a'laa wabihamdihi (3 kali)"
+    },
+    {
+      "id": 13,
+      "name": "Duduk diantara Dua Sujud",
+      "arabic": " رب اغْفِرلي وَارْحَمْنِى واجبرني وَارْفَعْنِي وَارْزُقْنِى وَاهْدِنِى وَعَافِنِى وَاعْفُ عَنِّى",
+      "latin": "Robbighfirlii warhamnii wajburnii warfa'nii warzuqnii wahdinii wa'aafinii wa'fuannii."
+    },
+    {
+      "id": 14,
+      "name": "Sujud kedua",
+      "arabic": "سُبْحَانَ رَبِّىَ الْأَعْلَى وَبِحَمْدِهِ",
+      "latin": "Subhaana rabbiyal a'laa wabihamdihi (3 kali)"
+    },
+    {
+      "id": 15,
+      "name": "Bangun untuk rokaa berikutnya",
+      "arabic": "",
+      "latin": ""
+    },
+    {
+      "id": 16,
+      "name": "Duduk Tasyahud/atahiat awal",
+      "arabic": "التَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلَّهِ السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِىُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِاَ . للَّهُمَّ صَلِّ عَلىَسَعَلىَسَـيَّدِنَا مُحَمَّدٍ",
+      "latin": "ttahiyyaatul mubaarakaatush sholawaatuth thayyibaatu lillaah. Assalaamu 'alaika ayyuhan nabiyyu wa rahmatullahi wabarakaatuh. Assalaaamu'alainaa wa 'alaa 'ibaadillaahish shaalihiin. Asyhadu allaa ilaaha illallah wa asyhadu anna Muhammadar rasuulullah. Allahumma shalli 'alaa sayyidinaa Muhammad."
+    },
+    {
+      "id": 17,
+      "name": "Bacaan Tasyahud/Tahiyat Akhir",
+      "arabic": "التَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلَّهِ السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِىُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَشْهَدُ أَنَّ وَعَلَى آلِ سَيِّدِنَامُحَمَّدٍمُحَمَّدًا رَسُولُ اللَّهِاَ . للَّهُمَّ صَلِّ عَلىَسَـيَّدِنَا مُحَمَّدٍكَمَا صَلَّيْتَ عَلَى سَيِّدِنَا إِبْرَاهِيْمِ وَعَلَى اَلِ سَيِّدِنَا إِبْرَاهِيْمِ. وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى اَلِ سَيِّدِنَا مُحَمَّدٍ كََمَا بَارَكْتَ عَلَى سَيِّدِنَا إِبْرَاهِيْمِ وَعَلَى اَلِ سَيِّدِنَا إِبْرَاهِيْمِ فِى الْعَالَمِيْنَ إِنَّكَ حَمِيْدٌ مَجِيْدٌr",
+      "latin": "Attahiyyaatul mubaarakaatush sholawaatuth thayyibaatu lillaah. Assalaamu 'alaika ayyuhan nabiyyu wa rahmatullahi wabarakaatuh. Assalaaamu'alainaa wa 'alaa 'ibaadillaahish shaalihiin. Asyhadu allaa ilaaha illallah wa asyhadu anna Muhammadar rasuulullah. Allahumma shalli 'alaa sayyidinaa Muhammad. Kamaa shallaita 'alaa sayyidina Ibraahima wa 'alaa aali sayiidinaa Ibraahimm wabaarik 'alaa sayyidina Muhammad wa'alaa aali sayyidina muhammad. Kamaa baarakta 'alaa sayyidinaa Ibraahim fil'aala miina innaka hamiidun majiid."
+    },
+    {
+      "id": 18,
+      "name": "Salam",
+      "arabic": "السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ",
+      "latin": "Assalaamu alaikum wa rahmatullah"
+    },
+    {
+      "id": 19,
+      "name": "Doa Setelah sholat fardhu",
+      "arabic": "اَللّٰهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ صَلاَةً تُنْجِيْنَا بِهَا مِنْ جَمِيْعِ الْأَهْوَالِ وَالْاٰفَاتِ وَتَقْضِيْ لَنَا بِهَا جَمِيعَ الْحَاجَاتِ وَتُطَهِّرُنَا بِهَا مِنْ جَمِيْعِ السَيِّئَاتِ وَتَرْفَعُنَا بِهَا عِنْدَكَ أَعْلَى الدَّرَجَاتِ وَتُبَلِّغُنَا بِهَـــا أَقْصَى الْغَايَاتِ مِنْ جَمِيْعِ الْخَيْرَاتِ فِى الْحَيَاةِ وَبَعْدَ الْمَمَـــاتِ",
+      "latin": ""
+    }
+  ]
