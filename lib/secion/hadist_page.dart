@@ -1,6 +1,5 @@
 import 'package:eightclass/model/model_hadist.dart';
 import 'package:flutter/material.dart';
-// import 'package:miniproject/model/model_hadist.dart';
 import 'package:flutter/services.dart' as root_bundle;
 import 'dart:convert';
 

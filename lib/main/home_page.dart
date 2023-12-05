@@ -1,7 +1,6 @@
 import 'package:eightclass/secion/pagedoa.dart';
 import 'package:eightclass/secion/pagesholat.dart';
 import 'package:flutter/material.dart';
-
 import '../secion/pagehadist.dart';
 
 class Home extends StatefulWidget {
@@ -32,7 +31,8 @@ class _HomeState extends State<Home> {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: [
-          SizedBox(
+          Container(
+            padding: const EdgeInsets.all(0),
             height: 400,
             child: PageView(
               controller: _controller,

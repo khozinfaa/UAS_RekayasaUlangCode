@@ -20,7 +20,7 @@ class _PagehaState extends State<Pageha> {
           child: Container(
             height: 400,
             width: 400,
-            color: Colors.purple,
+            color: Colors.blue,
             child: InkWell(
               child: Expanded(
                 child: InkWell(

@@ -1,4 +1,3 @@
-// import 'package:eightclass/secion/doa_page.dart';
 import 'package:eightclass/secion/sholat_page.dart';
 import 'package:flutter/material.dart';
 
@@ -21,7 +20,7 @@ class _PageSholatState extends State<PageSholat> {
           child: Container(
             height: 400,
             width: 400,
-            color: Colors.purple,
+            color: Colors.amber,
             child: InkWell(
               child: Expanded(
                 child: InkWell(
